@@ -1,0 +1,36 @@
+
+
+.craftsman-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 20px;
+  width: 300px;
+}
+
+.craftsman-card img {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 12px;
+}
+
+.craftsman-card h3 {
+  margin: 0;
+}
+
+.craftsman-card p {
+  margin: 8px 0;
+}
+
+.craftsman-card button {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 4px 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.craftsman-card button:hover {
+  background-color: #f0f0f0;
+}
